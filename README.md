@@ -1,6 +1,6 @@
 ## [![Build status](https://ci.appveyor.com/api/projects/status/ocij61k3dd014r7h?svg=true)](https://ci.appveyor.com/project/Garfy2/ahj-dnd)
 
-WEB-VERSION: put url
+WEB-VERSION: [put url](https://garfy2.github.io/ahj-dnd/)
 
 Правила сдачи задания:
 
